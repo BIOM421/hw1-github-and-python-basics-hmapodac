@@ -1,5 +1,8 @@
 def hello_world():
-	return "Hello"
+	'''"hello_world()" will take no arguments and 
+	will return the string "Hello World!" 
+	exactly as shown.'''
+	return "Hello World!"
 
 def hello_world_n(N):
 	'''"hello_world_n(N)" will take one argument (N) and 
